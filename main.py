@@ -5,7 +5,7 @@ r.ping()
 
 # cria uma sala
 
-# r.hset("2367", "p1", "")
+r.hset("2367", "p1", "")
 r.hset("2367", "p2", "1")
 
 # mostra resultados
