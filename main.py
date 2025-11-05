@@ -17,6 +17,7 @@ def front(state: int, user_credits, player2=0, player1=0):
     print("+-------------------------------+")
     print(f"+user_credits:{user_credits}\t\t\t+")
     print("+-------------------------------+")
+    print("+       player 1 | player 2     +")
     print("+        ._._.     _|.|_        +")
     if state == 0:
         print("+       (´-_-`)   [´-_-`]       +")
