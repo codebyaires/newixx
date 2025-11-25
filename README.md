@@ -95,3 +95,5 @@ O jogo continuará automaticamente para a próxima rodada.
 [Victor Aires] - (https://github.com/codebyaires)
 
 [Vitor] - (https://github.com/Vitor-ALucn)
+
+[Peterson] - (https://github.com/ruivocodespace)
